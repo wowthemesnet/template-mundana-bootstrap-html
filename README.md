@@ -1,6 +1,6 @@
 # Mundana - Free Bootstrap HTML Blogging Template
 
-Anchor is a free Bootstrap UI Kit with flexible, ready to use UI components which will hep you build websites faster.
+Free HTML Bootstrap Blogging Template by [Sal](https://www.wowthemes.net).
 
 [Live Demo](https://wowthemesnet.github.io/template-mundana-bootstrap-html/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/template-mundana-bootstrap-html/archive/master.zip)
 
