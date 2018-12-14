@@ -1,0 +1,17 @@
+{
+  "name": "Mundana",
+  "description": "HTML Bootstrap Blogging Template",
+  "version": "1.0.0",
+  "homepage": "https://www.wowthemes.net/mundana-free-html-bootstrap-template/",
+  "author": "WowThemesNet",
+  "license": "WowThemesNet License <https://www.wowthemes.net/freebies-license/>",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-open": "^3.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
